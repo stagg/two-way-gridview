@@ -1552,7 +1552,7 @@ ViewTreeObserver.OnTouchModeChangeListener {
 
 	@Override
 	protected void dispatchDraw(Canvas canvas) {
-		int saveCount = 0;
+//		int saveCount = 0;
 		//TODO????
 		/*
         final boolean clipToPadding = (mGroupFlags & CLIP_TO_PADDING_MASK) == CLIP_TO_PADDING_MASK;
